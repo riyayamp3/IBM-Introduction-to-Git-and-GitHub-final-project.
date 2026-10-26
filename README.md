@@ -36,4 +36,4 @@ Simple Interest = (1000 × 5 × 2) / 100 = 100
 
 ## Author
 
-Your Name
+Riya Mote 
